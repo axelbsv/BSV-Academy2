@@ -238,7 +238,7 @@
       * [ECIES](guides/sdks/py/examples/EXAMPLE_ECIES.md)
 
 ## BSV Academy
-* [Bitcoin Basics: Protocol and Design]()
+* Bitcoin Basics: Protocol and Design
   * [Introduction](academy/BSV%20Basics%3A%20Protocol%20and%20Design/README.md)
     * [Bit-Coin](academy/BSV%20Basics%3A%20Protocol%20and%20Design/introduction/bit-coin.md)
   * [The BSV Ledger](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/the-bsv-ledger.md)
@@ -595,11 +595,11 @@
     * [Conclusion](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/conclusion/README.md)
       * [Chapter 6 video 1](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/conclusion/chapter-6-video-1.md)
     * [Final Assessment](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/final-assessment.md)
-* [BSV Infrastructure]()
-  * [Introduction and Course Outline]()
+* BSV Infrastructure
+  * Introduction and Course Outline
     * [Introduction](academy/BSV%20Infrastructure/README.md)
     * [Course Outline](academy/BSV%20Infrastructure/introduction-and-course-outline/course-outline.md)
-  * [The Instructions]()
+  * The Instructions
     * [Introduction](academy/BSV%20Infrastructure/the-instructions/introduction.md)
     * [The Whitepaper](academy/BSV%20Infrastructure/the-instructions/the-whitepaper.md)
     * [Steps to Run the Network](academy/BSV%20Infrastructure/the-instructions/steps-to-run-the-network.md)
