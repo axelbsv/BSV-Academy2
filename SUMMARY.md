@@ -239,7 +239,7 @@
 
 ## BSV Academy
 * [Getting Started](academy/getting-started.md)
-* [Bitcoin Basics: Protocol and Design](academy/BSV%20Basics%3A%20Protocol%20and%20Design/README.md)
+* Bitcoin Basics: Protocol and Design
   * [Introduction](academy/BSV%20Basics%3A%20Protocol%20and%20Design/README.md)
     * [Bit-Coin](academy/BSV%20Basics%3A%20Protocol%20and%20Design/introduction/bit-coin.md)
   * [The BSV Ledger](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/the-bsv-ledger.md)
