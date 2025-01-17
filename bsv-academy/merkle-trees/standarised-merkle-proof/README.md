@@ -1,2 +1,0 @@
-# Standarised Merkle Proof
-

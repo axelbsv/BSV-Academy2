@@ -1,2 +1,0 @@
-# BSV Infrastructure
-

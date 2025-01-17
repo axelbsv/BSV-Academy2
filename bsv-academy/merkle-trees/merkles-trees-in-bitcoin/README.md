@@ -1,2 +1,0 @@
-# Merkles Trees in Bitcoin
-
