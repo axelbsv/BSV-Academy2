@@ -237,6 +237,34 @@
       * [Merkle Path Verification](guides/sdks/py/examples/EXAMPLE_VERIFYING_ROOTS.md)
       * [ECIES](guides/sdks/py/examples/EXAMPLE_ECIES.md)
 
+## BSV Academy
+* [Bitcoin Basics: Protocol and Design]()
+  * [Introduction](academy/BSV%20Basics%3A%20Protocol%20and%20Design/README.md)
+    * [Bit-Coin](academy/BSV%20Basics%3A%20Protocol%20and%20Design/introduction/bit-coin.md)
+  * [The BSV Ledger](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/the-bsv-ledger.md)
+    * [The Ledger](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/the-ledger.md)
+    * [Triple Entry Accounting](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/triple-entry-accounting.md)
+    * [Example](academy/BSV%20Basics%3A%20Protocol%20and%20Design/the-bsv-ledger/example.md)
+  * [Coins and Transactions](academy/BSV%20Basics%3A%20Protocol%20and%20Design/coins-and-transactions/coins-and-transactions.md)
+    * [Coins](academy/BSV%20Basics%3A%20Protocol%20and%20Design/coins-and-transactions/coins.md)
+    * [Transactions](academy/BSV%20Basics%3A%20Protocol%20and%20Design/coins-and-transactions/transactions.md)
+    * [Transaction Fees](academy/BSV%20Basics%3A%20Protocol%20and%20Design/coins-and-transactions/transaction-fees.md)
+  * [Theory](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/theory.md)
+    * [Introduction](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/introduction.md)
+    * [Transactions](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/transactions.md)
+    * [Timestamp Server](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/timestamp-server.md)
+    * [Proof-of-Work](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/proof-of-work.md)
+    * [Network](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/network.md)
+    * [Incentive](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/incentive.md)
+    * [Reclaiming Disk Space](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/reclaiming-disk-space.md)
+    * [Simplified Payment Verification](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/simplified-payment-verification.md)
+    * [Combining and Splitting Value](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/combining-and-splitting-value.md)
+    * [Privacy](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/privacy.md)
+    * [Calculations](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/calculations.md)
+    * [Conclusion](academy/BSV%20Basics%3A%20Protocol%20and%20Design/theory/conclusion.md)
+  * [Conclusion](academy/BSV%20Basics%3A%20Protocol%20and%20Design/conclusion/conclusion.md)
+
+
 ## Research and Development
 
 * [BRCs](https://bsv.brc.dev)
