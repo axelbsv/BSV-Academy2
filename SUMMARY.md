@@ -525,8 +525,8 @@
   * [Conclusion](academy/BSV%20Theory/conclusion/conclusion.md)
     * [Conclusion Explained](academy/BSV%20Theory/conclusion/conclusion-explained.md)
   * [Final Assessment](academy/BSV%20Theory/final-assessment/final-assessment.md)
-* [Introduction to Bitcoin Script]()
-  * [Chapter 1: About Bitcoin Script]()
+* Introduction to Bitcoin Script
+  * Chapter 1: About Bitcoin Script
     * [01 - Introduction](academy/Introduction%20to%20Bitcoin%20Script/README.md)
     * [02 - FORTH: A Precursor to Bitcoin Script](academy/Introduction%20to%20Bitcoin%20Script/chapter-1-about-bitcoin-script/02-forth-a-precursor-to-bitcoin-script.md)
     * [03 - From FORTH to Bitcoin Script](academy/Introduction%20to%20Bitcoin%20Script/chapter-1-about-bitcoin-script/03-from-forth-to-bitcoin-script.md)
