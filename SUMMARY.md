@@ -537,12 +537,12 @@
     * [06 - nLockTime](academy/Introduction%20to%20Bitcoin%20Script/chapter-1-about-bitcoin-script/06-nlocktime.md)
     * [07 - The Script Evaluator](academy/Introduction%20to%20Bitcoin%20Script/chapter-1-about-bitcoin-script/07-the-script-evaluator.md)
     * [Chapter 1 assessment 3](academy/Introduction%20to%20Bitcoin%20Script/chapter-1-about-bitcoin-script/chapter-1-assessment-3.md)
-  * [Chapter 2: Basic Script Syntax]()
+  * Chapter 2: Basic Script Syntax
     * [01 - Introduction](academy/Introduction%20to%20Bitcoin%20Script/chapter-2-basic-script-syntax/01-introduction.md)
     * [02 - Rules Around Data and Scripting Grammar](academy/Introduction%20to%20Bitcoin%20Script/chapter-2-basic-script-syntax/02-rules-around-data-and-scripting-grammar.md)
     * [03 - The Stacks](academy/Introduction%20to%20Bitcoin%20Script/chapter-2-basic-script-syntax/03-the-stacks.md)
     * [Chapter 2 assessment 1](academy/Introduction%20to%20Bitcoin%20Script/chapter-2-basic-script-syntax/chapter-2-assessment-1.md)
-  * [Chapter 3: The Opcodes]()
+  * Chapter 3: The Opcodes
     * [01 - Introduction](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/01-introduction.md)
     * [02 - Constant Value and PUSHDATA Opcodes](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/02-constant-value-and-pushdata-opcodes.md)
     * [Chapter 3 assessment 1](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/chapter-3-assessment-1.md)
@@ -560,7 +560,7 @@
     * [10 - Cryptographic Functions](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/10-cryptographic-functions.md)
     * [11 - Disabled and Removed Opcodes](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/11-disabled-and-removed-opcodes.md)
     * [Chapter 3 assessment 6](academy/Introduction%20to%20Bitcoin%20Script/chapter-3-the-opcodes/chapter-3-assessment-6.md)
-  * [Chapter 4: Simple Scripts]()
+  * Chapter 4: Simple Scripts
     * [01 - Introduction](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/01-introduction.md)
     * [01 - Pay to Public Key (P2PK)](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/01-pay-to-public-key-p2pk.md)
     * [02 - Pay to Hash Puzzle](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/02-pay-to-hash-puzzle.md)
@@ -571,7 +571,7 @@
     * [05 - Pay to MultiSignature Hash (P2MSH)](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/05-pay-to-multisignature-hash-p2msh.md)
     * [06 - R-Puzzles](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/06-r-puzzles.md)
     * [Chapter 4 assessment 3](academy/Introduction%20to%20Bitcoin%20Script/chapter-4-simple-scripts/chapter-4-assessment-3.md)
-  * [Chapter 5: OP_PUSH_TX]()
+  * Chapter 5: OP_PUSH_TX
     * [01 - Turing Machines](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/01-turing-machines.md)
     * [02 - Elliptic Curve Signatures in Bitcoin](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/02-elliptic-curve-signatures-in-bitcoin.md)
     * [Chapter 5 assessment 1](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/chapter-5-assessment-1.md)
@@ -591,7 +591,7 @@
     * [13 - nLocktime](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/13-nlocktime.md)
     * [14 - SIGHASH flags](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/14-sighash-flags.md)
     * [Chapter 5 assessment 5](academy/Introduction%20to%20Bitcoin%20Script/chapter-5-op_push_tx/chapter-5-assessment-5.md)
-  * [Chapter 6: Conclusion]()
+  * Chapter 6: Conclusion
     * [Conclusion](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/conclusion/README.md)
       * [Chapter 6 video 1](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/conclusion/chapter-6-video-1.md)
     * [Final Assessment](academy/Introduction%20to%20Bitcoin%20Script/chapter-6-conclusion/final-assessment.md)
