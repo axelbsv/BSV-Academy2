@@ -12,6 +12,8 @@ This documentation is built with the AI search tool in mind, responses will cite
 
 ### How should I begin?
 
+
+
 <details>
 
 <summary>Application Developers</summary>
@@ -21,29 +23,21 @@ This documentation is built with the AI search tool in mind, responses will cite
 
 [mockchain.md](guides/local-blockchain-stack/mockchain.md "mention")
 
-[EXAMPLE\_VERIFYING\_BEEF.md](guides/sdks/ts/examples/EXAMPLE\_VERIFYING\_BEEF.md "mention")
+[EXAMPLE\_VERIFYING\_BEEF.md](guides/sdks/ts/examples/EXAMPLE_VERIFYING_BEEF.md "mention")
 
 </details>
 
-<details>
-
-<summary>Entrepreneurs</summary>
-
-[what-can-i-do](what-can-i-do/ "mention")
-
-[the-benefits-of-bsv-blockchain.md](bsv-skills-center/the-benefits-of-bsv-blockchain.md "mention")
-
-[event\_tickets.md](guides/business-use-cases/event\_tickets.md "mention")
-
-</details>
+{% content-ref url="https://app.gitbook.com/o/vHVobnveKwFb1XN8UU1S/s/MjqqF5vuCY28Aj5oqGva/" %}
+[Entrepreneurs](https://app.gitbook.com/o/vHVobnveKwFb1XN8UU1S/s/MjqqF5vuCY28Aj5oqGva/)
+{% endcontent-ref %}
 
 <details>
 
 <summary>Lawyers</summary>
 
-[Broken link](broken-reference "mention")
+[broken-reference](broken-reference/ "mention")
 
-[Broken link](broken-reference "mention")
+[broken-reference](broken-reference/ "mention")
 
 [digital-signatures.md](bsv-skills-center/bsv-protocol-documentation/privacy/digital-signatures.md "mention")
 
